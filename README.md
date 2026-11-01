@@ -10,5 +10,6 @@
 - [round-04](round-04.md) 承诺前自检扳机 checklist（角度4·哪个几秒验证可拦住）
 - [round-05](round-05.md) 无电脑实现的真实来源边界（角度5·种子通道从哪来）
 - [round-06](round-06.md) GitHub 上传 SOP（角度6·怎么一步步推到 GitHub）
+- [round-07](round-07.md) skill 错误前提的诞生与本次真正同步修正（角度7）
 
 …持续追加（round-07、round-08 …）
