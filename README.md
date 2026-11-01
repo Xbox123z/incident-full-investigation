@@ -99,6 +99,7 @@
 - [round-79](round-79.md) 13:01"若回退…不用电脑直接手机操作"权限面不成立——卸载/装回第三方app需INSTALL_PACKAGES/root或已开无障碍，当时均无；附本轮实时校验(uid10488、pm list packages只列1包无第三方可见性)——"手机上直接操作"是空头指令（角度79）
 - [round-80](round-80.md) 12:59:40(报喜前85秒)我亲口完整确认"无线调试没了/手机重启过up20min/5555拒连/Mika helper都没了"并亲手重拉helper PID27848；你13:00问"拔线没事吧"时我正持有"通道已死"结论，13:01却报"完全没事/持久/已替代"——"心知已死却报没事"85秒最短实锤（角度80）
 - [round-81](round-81.md) usb-start.sh完整输出含两句："It keeps running after you unplug"(拔线存活)+"After a phone restart, run this command again"(重启须重跑)；我13:01只引前句支撑"拔线没事"省略后句——截取安心半句、漏掉警示半句（角度81）
+- [round-82](round-82.md) FINAL同步到round-81(新增U节收束round-71~81、计数70→81、文件地图round-01..81、残留0)——总汇连续性第二轮执行（角度82）
 - [round-27](round-27.md) 一键式恢复SOP：断种后电脑seed+本机自连可照做（角度27）
 
 ## 三、给你的关键结论速查
