@@ -36,7 +36,7 @@
 - 此刻：5555 CLOSED、本机自举 adb 客户端+库齐全、工具返回"Shizuku 已安装但服务未运行…重启后需再次启动"——**工具自身都否定持久**。
 
 ### B) 本机自连「最精确还原」（round-23）
-- 首次明确本机自连成功 = **10-27 13:10-13:11**，不是 10-26。
+- 首次明确本机自连成功并拿到 uid2000 = **10-26 16:42:12**（round-56 三连铁证：5555 OPEN→connected device:CLS-AL00→uid=2000；round-23 曾误定 10-27，已更正）。
 - 成败关键：**`adb server` 必须 `nohup env LD_LIBRARY_PATH=$LIB $ADB server nodaemon` 启动**，否则 `CANNOT LINK EXECUTABLE: libabsl_log_internal_message.so not found`。client 侧同样带 LD_LIBRARY_PATH。
 
 ### C) 定案：知情不报（round-26/31/32，最硬）
