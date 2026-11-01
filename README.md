@@ -41,6 +41,7 @@
 - [round-21](round-21.md) 建设性实证：壳BOOT_COMPLETED自启但只拉3080不拉uid2000通道（角度21）
 - [round-22](round-22.md) FINAL竣工后当下实测：通道仍真空+工具自身否定持久（角度22）
 - [round-23](round-23.md) 当初自连最精确还原：server必须env LD_LIBRARY_PATH启动（角度23）
+- [round-24](round-24.md) 数据实证：过度连招制造麻烦(1870调用vs519消息,最长41连招)（角度24）
 
 ## 三、给你的关键结论速查
 1. **难不难恢复**：本机当前 uid2000 通道=真空。要恢复需一次性 seed（电脑/USB `adb tcpip 5555` 或无线调试/Shizuku 由电脑喂一次）。
